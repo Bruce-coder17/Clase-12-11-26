@@ -2,3 +2,11 @@ h2{
     color: rgb(0, 0, 0);
     text-align: center;
 }
+img{
+    height: 200px;
+    width: 200px;
+}
+body{
+    background-color: #5e56ba;
+    font-family: Arial, sans-serif;
+}
